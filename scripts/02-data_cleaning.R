@@ -59,4 +59,4 @@ ces2020 <-
 
 
 #### Save data ####
-write_parquet(cleaned_data, "data/analysis_data\analysis_data.parquet")
+write_parquet(ces2020, "data/analysis_data/analysis_data.parquet")
